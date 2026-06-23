@@ -13,7 +13,6 @@ AgriSafeNet is Agriculture Safety Classifier is a machine learning system that c
 * Python 3.10+
 * Git
 * Streamlit
-* PyTorch
 * Hugging Face Transformers
 
 ### Python Packages
